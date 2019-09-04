@@ -16,7 +16,7 @@ end
 
 def id_generator
   id_generator={
-    :id => 999
+    :id => '9'
     :id.Object_id
   }
 end
