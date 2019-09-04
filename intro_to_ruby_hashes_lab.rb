@@ -16,7 +16,7 @@ end
 
 def id_generator
   id_generator={
-    :id => '9'
+    id: 5 
   }
 end
 
