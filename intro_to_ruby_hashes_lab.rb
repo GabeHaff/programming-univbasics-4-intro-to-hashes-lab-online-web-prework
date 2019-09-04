@@ -17,7 +17,6 @@ end
 def id_generator
   id_generator={
     :id => "8"
-    :id.object_id
   }
 end
 
